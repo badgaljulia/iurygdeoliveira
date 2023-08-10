@@ -1,14 +1,23 @@
-## welcome guys ;) 
 
-meu nome é julia, tenho 16 anos, sou de itz-MA, porem moro em araguaina. estudo no IFTO e curso informatica
+# bem vindos ao meu github
 
 
-## me sigam nas redes sociais:
+meu nome é julia, tenho 16 anos, sou de itz-MA, porem moro em araguaina. estudo no IFTO e curso informatica, estou no 2 ano do ensino medio.
 
-  </li>
-  <li>
-    <img src="https://user-images.githubusercontent.com/30157522/87161461-f33f8580-c29a-11ea-8686-34eb06e44501.png" width="18" alt="Twitter"> 
-    <a href="https://twitter.com/goodgaljulia" target="_blank" title="My Twitter">Twitter</a>
-  </li>
-  <li>
- 
+
+## Color Reference
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
+| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
+| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
+| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
+
+
+# bem vindos ao meu github
+
+
+meu nome é julia, tenho 16 anos, sou de itz-MA, porem moro em araguaina. estudo no IFTO e curso informatica, estou no 2 ano do ensino medio.
+
+
